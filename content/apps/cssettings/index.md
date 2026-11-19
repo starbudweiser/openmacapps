@@ -13,12 +13,13 @@ website: https://skyrimtools.com
 license: MIT
 licenseUrl: https://github.com/starbudweiser/csSETTINGS/blob/main/LICENSE
 download: https://github.com/starbudweiser/csSETTINGS/releases
+macos: "15"
 arch: apple-silicon
 notarized: true
 freeDownload: true
 featured: false
 added: '2026-11-10'
-verified: '2026-11-10'
+verified: '2026-11-19'
 sources:
   - https://github.com/starbudweiser/csSETTINGS
   - https://github.com/starbudweiser/csSETTINGS/blob/main/LICENSE

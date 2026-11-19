@@ -15,10 +15,11 @@ licenseUrl: https://github.com/starbudweiser/nEXUSWATCH/blob/main/LICENSE
 download: https://github.com/starbudweiser/nEXUSWATCH/releases
 macos: "14"
 arch: both
+notarized: true
 freeDownload: true
 featured: false
 added: '2026-11-10'
-verified: '2026-11-10'
+verified: '2026-11-19'
 screenshots:
   - src: ./assets/screenshot.png
     alt: "Several mods in the sidebar with their latest posts sorted into bug reports and requests."

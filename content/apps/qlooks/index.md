@@ -15,10 +15,11 @@ licenseUrl: https://github.com/starbudweiser/qLOOKS/blob/main/LICENSE
 download: "https://github.com/starbudweiser/qLOOKS/releases/latest"
 macos: "15"
 arch: apple-silicon
+notarized: true
 freeDownload: true
 featured: false
 added: '2026-11-16'
-verified: '2026-11-17'
+verified: '2026-11-19'
 sources:
   - https://github.com/starbudweiser/qLOOKS
   - https://github.com/starbudweiser/qLOOKS/blob/main/LICENSE
